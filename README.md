@@ -26,18 +26,14 @@ Instead, the following presentation formats are available for review:
 ## 📸 Interface Preview
 
 <p align="center">
-  <img src="e1.png" width="45%" alt="Slide Preview 1" />
+  <img src="e3.png" width="45%" alt="Slide Preview 1" />
   <img src="e2.png" width="45%" alt="Slide Preview 2" />
+   <img src="e3.png" width="45%" alt="Slide Preview 2" />
+   <img src="e4.png" width="45%" alt="Slide Preview 2" />
+   <img src="e5.png" width="45%" alt="Slide Preview 2" />
+   <img src="e6.png" width="45%" alt="Slide Preview 2" />
 </p>
 
 ---
 
-## 🎬 Video Demonstration
-
-Below is a live loop showcasing the smooth transitions and futuristic interface design:
-
-<video src="https://github.com/T-Ayona/Modern-futuristic-morph-presentation/blob/main/presentation%20video.mp4" controls autoplay loop muted width="100%">
-</video>
-
----
 © 2026 Abdullah Irfan. All rights reserved.
