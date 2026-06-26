@@ -26,8 +26,8 @@ Instead, the following presentation formats are available for review:
 ## 📸 Interface Preview
 
 <p align="center">
-  <img src="YOUR_IMAGE_1.png" width="45%" alt="Slide Preview 1" />
-  <img src="YOUR_IMAGE_2.png" width="45%" alt="Slide Preview 2" />
+  <img src="e1.png" width="45%" alt="Slide Preview 1" />
+  <img src="e2.png" width="45%" alt="Slide Preview 2" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ Instead, the following presentation formats are available for review:
 
 Below is a live loop showcasing the smooth transitions and futuristic interface design:
 
-<video src="YOUR_MP4_FILENAME.mp4" controls autoplay loop muted width="100%">
+<video src="presentation video.mp4" controls autoplay loop muted width="100%">
 </video>
 
 ---
