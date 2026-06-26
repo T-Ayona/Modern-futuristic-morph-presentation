@@ -27,8 +27,8 @@ Instead, the following presentation formats are available for review:
 
 <p align="center">
   <img src="e3.png" width="45%" alt="Slide Preview 1" />
-  <img src="e2.png" width="45%" alt="Slide Preview 2" />
-   <img src="e3.png" width="45%" alt="Slide Preview 2" />
+  <img src="e1.png" width="45%" alt="Slide Preview 2" />
+   <img src="e2.png" width="45%" alt="Slide Preview 2" />
    <img src="e4.png" width="45%" alt="Slide Preview 2" />
    <img src="e5.png" width="45%" alt="Slide Preview 2" />
    <img src="e6.png" width="45%" alt="Slide Preview 2" />
